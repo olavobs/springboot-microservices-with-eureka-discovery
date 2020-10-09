@@ -7,5 +7,9 @@ Tutorial created by [Java Brains](https://www.youtube.com/watch?v=y8IQb4ofjDo&li
 ## Eureka up and running
 ![Eureka](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/imgs/Capturar.PNG)
 
-### Service Discovery -> [Folder](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/discovery-server)
+[Service Discovery](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/discovery-server)
+[Movie Catalog Service](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/movie-catalog-service)
+[Rating Data Service](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/ratings-data-service)
+[Movie Info Service](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/movie-info-service)
+
 
