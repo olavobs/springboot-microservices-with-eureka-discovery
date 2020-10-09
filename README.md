@@ -6,4 +6,4 @@ Tutorial created by [Java Brains](https://www.youtube.com/watch?v=y8IQb4ofjDo&li
 
 ## Eureka up and running
 
-![img](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/imgs/Capturar.PNG)
+[Eureka](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/imgs/Capturar.PNG)
