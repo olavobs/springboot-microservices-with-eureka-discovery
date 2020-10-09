@@ -5,5 +5,7 @@ This is an application using springboot to create services that communicate to e
 Tutorial created by [Java Brains](https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&index=1)
 
 ## Eureka up and running
+![Eureka](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/imgs/Capturar.PNG)
 
-<img src="https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/imgs/Capturar.PNG" width="500" />
+### Service Discovery -> [Folder](https://github.com/olavobs/springboot-microservices-with-eureka-discovery/tree/main/discovery-server)
+
